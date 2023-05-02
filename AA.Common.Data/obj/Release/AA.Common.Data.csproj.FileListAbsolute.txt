@@ -1,0 +1,32 @@
+E:\SCT-SVN\MPresion\AA.Common.Data\bin\Release\AA.Common.Data.dll
+E:\SCT-SVN\MPresion\AA.Common.Data\bin\Release\AA.Common.Data.pdb
+E:\SCT-SVN\MPresion\AA.Common.Data\obj\Release\AA.Common.Data.csprojResolveAssemblyReference.cache
+E:\SCT-SVN\MPresion\AA.Common.Data\obj\Release\AA.Common.Data.dll
+E:\SCT-SVN\MPresion\AA.Common.Data\obj\Release\AA.Common.Data.pdb
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data\bin\Release\AA.Common.Data.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data\bin\Release\AA.Common.Data.pdb
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data\obj\Release\AA.Common.Data.csprojResolveAssemblyReference.cache
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data\obj\Release\AA.Common.Data.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data\obj\Release\AA.Common.Data.pdb
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data\bin\Release\AA.Common.Data.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data\bin\Release\AA.Common.Data.pdb
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data\obj\Release\AA.Common.Data.csprojResolveAssemblyReference.cache
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data\obj\Release\AA.Common.Data.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data\obj\Release\AA.Common.Data.pdb
+C:\aguas_andinas\kotlin\Click\AA.Common.Data\bin\Release\AA.Common.Data.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data\bin\Release\AA.Common.Data.pdb
+C:\aguas_andinas\kotlin\Click\AA.Common.Data\obj\Release\AA.Common.Data.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\kotlin\Click\AA.Common.Data\obj\Release\AA.Common.Data.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data\obj\Release\AA.Common.Data.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data\bin\Release\AA.Common.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data\bin\Release\AA.Common.Data.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data\obj\Release\AA.Common.Data.csprojAssemblyReference.cache
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data\obj\Release\AA.Common.Data.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data\obj\Release\AA.Common.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data\obj\Release\AA.Common.Data.pdb
+C:\aguas_andinas\src\click2siebel\AA.Common.Data\bin\Release\AA.Common.Data.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data\bin\Release\AA.Common.Data.pdb
+C:\aguas_andinas\src\click2siebel\AA.Common.Data\obj\Release\AA.Common.Data.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\src\click2siebel\AA.Common.Data\obj\Release\AA.Common.Data.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data\obj\Release\AA.Common.Data.pdb
+C:\aguas_andinas\src\click2siebel\AA.Common.Data\obj\Release\AA.Common.Data.csproj.AssemblyReference.cache
