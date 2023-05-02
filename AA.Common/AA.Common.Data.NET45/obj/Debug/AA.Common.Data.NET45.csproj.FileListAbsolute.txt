@@ -1,0 +1,268 @@
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+Q:\TESEOPAK-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+Q:\SCT-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+E:\SCT-SVN\MPresion\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+E:\AA\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\Users\ccampose\Desktop\Modulo PM\AA_07082017_14_24\AA.MAP.WEB\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\01.- Aguas Andinas\AA_12_09_2017_10_52\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\01.- Aguas Andinas\AA_22092017_15_21\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\_Nuevos Fuentes\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\Aguas Andinas\AA_12102017_10_59\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\Aguas Andinas\PM FINAL\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\_src\PM FINAL\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojResolveAssemblyReference.cache
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\Aguas Andinas\04 - PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojAssemblyReference.cache
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\Users\mvargasw\Documents\PM\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojAssemblyReference.cache
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\aguas andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojAssemblyReference.cache
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\24 .- AQUALEM\pm\PM\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojAssemblyReference.cache
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\kotlin\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojAssemblyReference.cache
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\24 .- AQUALEM\click2gis\Click\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csprojAssemblyReference.cache
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\24 .- AQUALEM\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\src\click2siebel\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.AssemblyReference.cache
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll.config
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.NET45.pdb
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.dll
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\Dapper.Data.dll
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\Dapper.dll
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\AA.Common.Data.pdb
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\bin\Debug\Dapper.xml
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.AssemblyReference.cache
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CoreCompileInputs.cache
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.csproj.CopyComplete
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.dll
+C:\aguas_andinas\src-personal\sample-data-access\AA.Common\AA.Common.Data.NET45\obj\Debug\AA.Common.Data.NET45.pdb
